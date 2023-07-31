@@ -1,0 +1,15 @@
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.csproj.AssemblyReference.cache
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.AssemblyInfoInputs.cache
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.AssemblyInfo.cs
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.csproj.CoreCompileInputs.cache
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\bin\Debug\net7.0\AplicaciondeConceptos.exe
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\bin\Debug\net7.0\AplicaciondeConceptos.deps.json
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\bin\Debug\net7.0\AplicaciondeConceptos.runtimeconfig.json
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\bin\Debug\net7.0\AplicaciondeConceptos.dll
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\bin\Debug\net7.0\AplicaciondeConceptos.pdb
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.dll
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\refint\AplicaciondeConceptos.dll
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.pdb
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\AplicaciondeConceptos.genruntimeconfig.cache
+C:\Users\Frrn\Desktop\Universidad - Trabajos\8vo. Semestre\Análisis de Sistemas II\C#\AplicaciondeConceptos\obj\Debug\net7.0\ref\AplicaciondeConceptos.dll
